@@ -5,6 +5,7 @@
 [x] Configuração shadcn, cores, tema
 [x] Adicionando pagina de login
 [x] Autenticação com clerk
+[x] Git hooks, prettier, lint-staged configuração
 
 <img src="/public/finance-ai-image-1.png">
 

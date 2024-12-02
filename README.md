@@ -3,7 +3,8 @@
 [x] Setup inicial
 [x] Modelagem de dados
 [x] Configuração shadcn, cores, tema
-[x] Autenticação
+[x] Adicionando pagina de login
+[x] Autenticação com clerk
 
 <img src="/public/finance-ai-image-1.png">
 

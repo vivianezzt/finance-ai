@@ -5,6 +5,8 @@
 <img src="/public/finance-ai-image-1.png">
 
 
+**Figma da aplicação** <a href="https://www.figma.com/design/ndIZ9nevfZZCMxCL4lZxfQ/FSW-Finance-(LIVE)?node-id=225-2278&node-type=frame&t=PrGNmBp8cjPB9bLs-0">Finance-Ai</a>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

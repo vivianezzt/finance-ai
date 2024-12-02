@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <body
-        className={mulish.className}
+        className={mulish.className="dark"}
       >
         {children}
       </body>

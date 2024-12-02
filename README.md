@@ -1,6 +1,8 @@
 ## Finance-Ai
+
 [x] Setup inicial
 [x] Modelagem de dados
+[x] Configuração shadcn, cores, tema
 
 <img src="/public/finance-ai-image-1.png">
 

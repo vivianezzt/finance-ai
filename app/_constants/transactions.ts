@@ -15,16 +15,18 @@ export const TRANSACTION_CATEGORY_LABELS = {
   TRANSPORTATION: "Transporte",
   UTILITY: "Utilidades",
 };
+
 export const TRANSACTION_PAYMENT_METHOD_LABELS = {
-  CREDIT_CARD: "Cartão de crédito",
-  DEBIT_CARD: "Cartão de débito",
-  CASH: "Dinheiro",
-  BANK_SLIP: "Boleto Bancário",
   BANK_TRANSFER: "Transferência Bancária",
+  BANK_SLIP: "Boleto Bancário",
+  CASH: "Dinheiro",
+  CREDIT_CARD: "Cartão de Crédito",
+  DEBIT_CARD: "Cartão de Débito",
   OTHER: "Outros",
-  PIX: "PIX",
+  PIX: "Pix",
 };
-export const TRANSACTION_TYPES_OPTIONS = [
+
+export const TRANSACTION_TYPE_OPTIONS = [
   {
     value: TransactionType.EXPENSE,
     label: "Despesa",
@@ -65,12 +67,12 @@ export const TRANSACTION_PAYMENT_METHOD_OPTIONS = [
       TRANSACTION_PAYMENT_METHOD_LABELS[TransactionPaymentMethod.DEBIT_CARD],
   },
   {
-    value: TransactionPaymentMethod.PIX,
-    label: TRANSACTION_PAYMENT_METHOD_LABELS[TransactionPaymentMethod.PIX],
-  },
-  {
     value: TransactionPaymentMethod.OTHER,
     label: TRANSACTION_PAYMENT_METHOD_LABELS[TransactionPaymentMethod.OTHER],
+  },
+  {
+    value: TransactionPaymentMethod.PIX,
+    label: TRANSACTION_PAYMENT_METHOD_LABELS[TransactionPaymentMethod.PIX],
   },
 ];
 

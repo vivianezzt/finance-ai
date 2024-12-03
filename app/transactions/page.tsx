@@ -1,11 +1,9 @@
 import { db } from "../_lib/prisma";
-import React from "react";
 import { DataTable } from "../_components/ui/data-table";
 import { transactionColumns } from "./_columns";
 import AddTransactionButton from "../_components/add-transaction-button";
 
 const TransactionsPage = async () => {
-  // acessar as transações do banco de dados
   const transactions = await db.transaction.findMany({});
   return (
     <div className="space-y-6 p-6">

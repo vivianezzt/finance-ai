@@ -34,7 +34,7 @@ export const TRANSACTION_TYPES_OPTIONS = [
     label: "Depósito",
   },
   {
-    vale: TransactionType.INVESTMENT,
+    value: TransactionType.INVESTMENT,
     label: "Investimento",
   },
 ];
@@ -80,7 +80,7 @@ export const TRANSACTION_CATEGORY_OPTIONS = [
     label: TRANSACTION_CATEGORY_LABELS[TransactionCategory.EDUCATION],
   },
   {
-    valeu: TransactionCategory.ENTERTAINMENT,
+    value: TransactionCategory.ENTERTAINMENT,
     label: TRANSACTION_CATEGORY_LABELS[TransactionCategory.ENTERTAINMENT],
   },
   {

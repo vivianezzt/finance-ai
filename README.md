@@ -8,7 +8,7 @@
 [x] Git hooks, prettier, lint-staged git message configuração
 [x] Criação de tela de Gestão de transações
 [x] Adição e edição de transação, adicionar no banco de dados
-
+[x] Adicona componente Navbar
 
 <img src="/public/finance-ai-image-1.png">
 

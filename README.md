@@ -1,7 +1,7 @@
 ## Finance-AI
 - [x] Criação do Banco de Dados
 - [x] Setup tailwind, shadcn, prettier plugin
-- [ ] Autenticação
+- [ ] Autenticação com clerk, login page
 - [ ] Interação com banco de dados
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 

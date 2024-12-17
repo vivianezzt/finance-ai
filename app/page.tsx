@@ -1,9 +1,7 @@
-
+import { Button } from "./_components/ui/button";
 
 export default function Home() {
   return (
-    <div className="flex items-center justify-center w-screen">
-      <h1>Hello</h1>
-    </div>
+   <Button>Adicionar</Button>
   );
 }
